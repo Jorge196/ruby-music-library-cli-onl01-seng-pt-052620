@@ -11,6 +11,7 @@ class MusicLibraryController
 
     if input != exit
     end
-  
+  end 
+
 
 end
