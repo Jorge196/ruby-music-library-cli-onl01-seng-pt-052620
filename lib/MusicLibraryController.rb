@@ -10,8 +10,7 @@ class MusicLibraryController
     input = gets.strip
 
     if input != exit
-    end
-  end 
+    
 
 
 end
